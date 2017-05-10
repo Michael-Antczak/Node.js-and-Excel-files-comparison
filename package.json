@@ -1,0 +1,22 @@
+{
+  "name": "files-comparison",
+  "version": "1.0.0",
+  "description": "Compare two Excel files against each other",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michael-Antczak/Node.js-and-Excel-files-comparison.git"
+  },
+  "author": "Michael Antczak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Michael-Antczak/Node.js-and-Excel-files-comparison/issues"
+  },
+  "homepage": "https://github.com/Michael-Antczak/Node.js-and-Excel-files-comparison#readme",
+  "dependencies": {
+    "xlsx": "^0.9.13"
+  }
+}
